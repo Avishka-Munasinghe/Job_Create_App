@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305002021849",
+    "project_id": "jobmanagement-6904d",
+    "storage_bucket": "jobmanagement-6904d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305002021849:android:d4b0f25897cb9565a2cfc8",
+        "android_client_info": {
+          "package_name": "com.example.avishkajobmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305002021849-0sv89oboubka2cngsrrlq98bfaepb028.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvC4Cq0qzXZvULPJPf8urDXeWwkrOdqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305002021849-0sv89oboubka2cngsrrlq98bfaepb028.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
